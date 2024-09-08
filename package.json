@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@mui/material": "file:emotion/react@emotion/styled",
+    "axios": "^1.6.8"
+  }
+}
